@@ -1,83 +1,91 @@
-🐰 Bunzi Bunny
+```markdown
+# 🐰 Bunzi Bunny
 
-https://raw.githubusercontent.com/sussybocca/Bunzi-Bunny/main/icon.png
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sussybocca/Bunzi-Bunny/main/icon.png" alt="Bunzi Bunny Icon" width="128">
+</p>
 
-Your intelligent, animated desktop companion — helpful, expressive, and always by your side.
+<p align="center">
+  <strong>Your intelligent, animated desktop companion — helpful, expressive, and always by your side.</strong>
+</p>
 
-https://img.shields.io/badge/Python-3.10%2B-blue.svg
-https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Animations-20%2B-orange.svg
-https://img.shields.io/badge/Bunny%20Types-20-ff69b4.svg
-https://img.shields.io/badge/Version-2.0.0-brightgreen.svg
-https://img.shields.io/badge/Status-Active-success.svg
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform Support">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/Animations-20%2B-orange.svg" alt="Animation Count">
+  <img src="https://img.shields.io/badge/Bunny%20Types-20-ff69b4.svg" alt="Bunny Varieties">
+  <img src="https://img.shields.io/badge/Version-2.0.0-brightgreen.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Project Status">
+</p>
 
 ---
 
-🎯 What Is Bunzi Bunny?
+## 🎯 What Is Bunzi Bunny?
 
-Bunzi Bunny is a genuine desktop companion application — not malware, not a prank, not a virus. It's a fully animated, voice-interactive bunny that lives on your desktop, responds to your voice, searches the web, tells jokes, monitors your system, and keeps you company throughout your day.
+Bunzi Bunny is a **genuine desktop companion application** — not malware, not a prank, not a virus. It's a fully animated, voice-interactive bunny that lives on your desktop, responds to your voice, searches the web, tells jokes, monitors your system, and keeps you company throughout your day.
 
-Unlike other desktop assistants that feel robotic or intrusive, Bunzi was designed from the ground up to be a friendly presence on your screen. It wanders around freely, reacts to your voice, expresses emotions through detailed 2D animations, and even gets hungry or tired over time — making it feel truly alive.
+Unlike other desktop assistants that feel robotic or intrusive, Bunzi was designed from the ground up to be a **friendly presence** on your screen. It wanders around freely, reacts to your voice, expresses emotions through detailed 2D animations, and even gets hungry or tired over time — making it feel truly alive.
 
 Bunzi learns from your interactions and becomes more personalized the more you use it. It remembers your name, your interests, the commands you use most often, and even your search history to provide better responses over time.
 
-✨ Your desktop has never been this alive. ✨
+<p align="center"><strong>✨ Your desktop has never been this alive. ✨</strong></p>
 
 ---
 
-📖 Table of Contents
+## 📖 Table of Contents
 
-· What Is Bunzi Bunny?
-· Core Features
-· Quick Start
-· Controls
-· Configuration
-· Bunny Varieties
-· Offline Vocabulary
-· Animation States
-· System Requirements
-· Dependencies
-· Troubleshooting
-· Project Structure
-· Contributing
-· License
-
----
-
-🚀 Core Features
-
-Category Feature Details
-🎤 Voice Interaction Speak naturally Bunzi listens via microphone, understands your words, and responds with text-to-speech
-🌐 Intelligent Web Search Background search Silent Google/Wikipedia search with dynamic response generation or full read-out mode with sources
-🧠 Offline Vocabulary 70+ responses Built-in responses across 12 categories — greetings, jokes, facts, and conversation — no internet required
-🎨 20 Bunny Varieties Unique characters Classic, Snow, Chocolate, Midnight, Caramel, Spotted, Striped, Golden, Lavender, Peach, Mint, Coral, Amber, Ruby, Sapphire, Emerald, Onyx, Pearl, Rose, and Sunset — each with distinct fur, eye, and ear colors
-🏃 20+ Animation States Full life simulation Idle, Walking, Running, Waving, Listening, Eating, Sleeping, Hopping, Sniffing, Stretching, Sitting, Grooming, Scared, Curious, Determined, Bashful, Mischievous, Confident, Terrified, Dancing, Basketball
-🖱️ Drag & Drop Feeding Interactive feeding Grab the 🥕 carrot and drag it to Bunzi — visible carrot appears in paw with bite and chew animation
-🛏️ Auto Hunger & Sleep Needs simulation Bunzi gets tired and hungry over time — feed it carrots or let it sleep automatically when energy runs low
-🔊 Text-to-Speech Natural voice Speaks responses aloud with selectable female voice using pyttsx3 engine
-🔁 Repeat Mode Voice echo Toggle on/off — either repeats what you say verbatim or uses intelligent vocabulary responses
-📊 System Monitor CPU alerts Alerts you when CPU usage exceeds 85% — helpful for catching runaway processes
-🪟 Windowless Mode Desktop freedom Roams freely on your desktop with no window borders and transparent background
-🎮 Mini-Game Carrot Catch Built-in reflex game — catch as many carrots as possible in 10 seconds
-📧 Email Support SMTP integration Send emails directly through Bunzi with configurable SMTP settings
-📚 Learning System Adaptive memory Remembers your name, interests, frequently used commands, search history, and interaction patterns
-⚙️ Fully Configurable JSON config Every setting adjustable via bunzi.config file stored in AppData
-🎯 Radial Menu Quick access Floating circular menu with one-click access to feeding, sleep, microphone, chat, wave, and more
-💬 Chat Panel Text interface Optional chat window for typing messages when voice isn't available
-🎵 Sound Effects Pygame audio Audio feedback for interactions, powered by pygame mixer
-😈 Evil Mode Fun prank mode Temporary "evil" personality with red flashing screen — harmless fun that reveals itself as a joke
+- [What Is Bunzi Bunny?](#-what-is-bunzi-bunny)
+- [Core Features](#-core-features)
+- [Quick Start](#-quick-start)
+- [Controls](#-controls)
+- [Configuration](#️-configuration)
+- [Bunny Varieties](#-bunny-varieties-20-total)
+- [Offline Vocabulary](#-offline-vocabulary)
+- [Animation States](#-animation-states-20)
+- [System Requirements](#️-system-requirements)
+- [Dependencies](#-dependencies-auto-installed)
+- [Troubleshooting](#-troubleshooting)
+- [Project Structure](#-project-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
-🚀 Quick Start
+## 🚀 Core Features
 
-Prerequisites
+| Category | Feature | Details |
+|----------|---------|---------|
+| 🎤 **Voice Interaction** | Speak naturally | Bunzi listens via microphone, understands your words, and responds with text-to-speech |
+| 🌐 **Intelligent Web Search** | Background search | Silent Google/Wikipedia search with dynamic response generation or full read-out mode with sources |
+| 🧠 **Offline Vocabulary** | 70+ responses | Built-in responses across 12 categories — greetings, jokes, facts, and conversation — no internet required |
+| 🎨 **20 Bunny Varieties** | Unique characters | Classic, Snow, Chocolate, Midnight, Caramel, Spotted, Striped, Golden, Lavender, Peach, Mint, Coral, Amber, Ruby, Sapphire, Emerald, Onyx, Pearl, Rose, and Sunset — each with distinct fur, eye, and ear colors |
+| 🏃 **20+ Animation States** | Full life simulation | Idle, Walking, Running, Waving, Listening, Eating, Sleeping, Hopping, Sniffing, Stretching, Sitting, Grooming, Scared, Curious, Determined, Bashful, Mischievous, Confident, Terrified, Dancing, Basketball |
+| 🖱️ **Drag & Drop Feeding** | Interactive feeding | Grab the 🥕 carrot and drag it to Bunzi — visible carrot appears in paw with bite and chew animation |
+| 🛏️ **Auto Hunger & Sleep** | Needs simulation | Bunzi gets tired and hungry over time — feed it carrots or let it sleep automatically when energy runs low |
+| 🔊 **Text-to-Speech** | Natural voice | Speaks responses aloud with selectable female voice using pyttsx3 engine |
+| 🔁 **Repeat Mode** | Voice echo | Toggle on/off — either repeats what you say verbatim or uses intelligent vocabulary responses |
+| 📊 **System Monitor** | CPU alerts | Alerts you when CPU usage exceeds 85% — helpful for catching runaway processes |
+| 🪟 **Windowless Mode** | Desktop freedom | Roams freely on your desktop with no window borders and transparent background |
+| 🎮 **Mini-Game** | Carrot Catch | Built-in reflex game — catch as many carrots as possible in 10 seconds |
+| 📧 **Email Support** | SMTP integration | Send emails directly through Bunzi with configurable SMTP settings |
+| 📚 **Learning System** | Adaptive memory | Remembers your name, interests, frequently used commands, search history, and interaction patterns |
+| ⚙️ **Fully Configurable** | JSON config | Every setting adjustable via `bunzi.config` file stored in AppData |
+| 🎯 **Radial Menu** | Quick access | Floating circular menu with one-click access to feeding, sleep, microphone, chat, wave, and more |
+| 💬 **Chat Panel** | Text interface | Optional chat window for typing messages when voice isn't available |
+| 🎵 **Sound Effects** | Pygame audio | Audio feedback for interactions, powered by pygame mixer |
+| 😈 **Evil Mode** | Fun prank mode | Temporary "evil" personality with red flashing screen — harmless fun that reveals itself as a joke |
 
-· Python 3.10 or higher installed on your system
-· Git (optional, for cloning the repository)
+---
 
-Installation
+## 🚀 Quick Start
+
+### Prerequisites
+
+- **Python 3.10** or higher installed on your system
+- **Git** (optional, for cloning the repository)
+
+### Installation
 
 ```bash
 # Clone the repository
@@ -105,21 +113,27 @@ Note: Missing dependencies will auto-install on first run if you skip the manual
 
 🎮 Controls
 
-Action Keyboard Shortcut Alternative Method
-🎤 Toggle Microphone Ctrl + M Radial menu or menu bar
-🥕 Feed Carrot Ctrl + C Drag 🥕 icon to bunny
-🛏️ Put to Sleep Ctrl + B Radial menu or auto-trigger
-💬 Toggle Chat Panel Ctrl + H Radial menu or menu bar
-👋 Make Bunzi Wave — Radial menu or voice command "wave"
-✅ Confirm Search Ctrl + Y Voice "yes" when prompted
-❌ Cancel Search Ctrl + N Voice "no" when prompted
-🌐 Toggle Web Search — Config file or menu bar
-🔁 Toggle Repeat Mode — Config file or menu bar
-🔊 Toggle Voice — Menu bar (windowed mode)
-😈 Activate Evil Mode — Radial menu or voice "evil mode"
-📊 System Status — Radial menu
-🎮 Play Mini-Game — Menu bar (windowed mode)
-❌ Quit Application — Radial menu, menu bar, or close button
+Keyboard Shortcuts
+
+Action Shortcut
+🎤 Toggle Microphone Ctrl + M
+🥕 Feed Carrot Ctrl + C
+🛏️ Put to Sleep Ctrl + B
+💬 Toggle Chat Panel Ctrl + H
+✅ Confirm Search Ctrl + Y
+❌ Cancel Search Ctrl + N
+
+Alternative Methods
+
+Action Method
+👋 Make Bunzi Wave Radial menu or voice command "wave"
+🌐 Toggle Web Search Config file or menu bar (windowed mode)
+🔁 Toggle Repeat Mode Config file or menu bar (windowed mode)
+🔊 Toggle Voice Menu bar (windowed mode)
+😈 Activate Evil Mode Radial menu or voice "evil mode"
+📊 System Status Radial menu
+🎮 Play Mini-Game Menu bar (windowed mode)
+❌ Quit Application Radial menu, menu bar, or close button
 
 Mouse Interactions
 
@@ -135,9 +149,10 @@ Action Result
 
 Bunzi stores all settings in a JSON configuration file:
 
-· Windows: %APPDATA%\BunziBunny\bunzi.config
-· Linux: ~/.config/BunziBunny/bunzi.config
-· macOS: ~/Library/Application Support/BunziBunny/bunzi.config
+Operating System Config Path
+Windows %APPDATA%\BunziBunny\bunzi.config
+Linux ~/.config/BunziBunny/bunzi.config
+macOS ~/Library/Application Support/BunziBunny/bunzi.config
 
 Complete Configuration Example
 
@@ -429,6 +444,6 @@ Bunzi Bunny was built with love and a passion for creating software that brings 
 
 ---
 
-Made with ❤️ and 🥕 by the Bunzi Bunny team
-
-Bunzi Bunny — Your desktop has never been this alive.
+<p align="center">Made with ❤️ and 🥕 by the Bunzi Bunny team</p>
+<p align="center"><sub>Bunzi Bunny — Your desktop has never been this alive.</sub></p>
+```
