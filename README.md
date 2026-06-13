@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sussybocca/BunziBunny/main/icon.png" alt="Bunzi Bunny" width="128">
+  <img src="https://raw.githubusercontent.com/sussybocca/Bunzi-Bunny/main/icon.png" alt="Bunzi Bunny" width="128">
 </p>
 
 <h1 align="center">🐰 Bunzi Bunny</h1>
